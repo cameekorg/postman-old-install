@@ -9,22 +9,30 @@ Postman old version installation packages archive.
 ## 1. For Linux
 Download the related GZ files and merge them together:
 ```
+git clone https://github.com/cameekorg/postman-old-install.git
+git checkout arch/linux-x64-7.34.0
 cat Postman-linux-x64-7.34.0.tar.gz_* > Postman-linux-x64-7.34.0.tar.gz
 ```
 
 ## 2. For MacOs
 Download the related ZIP files and merge them together:
 ```
+git clone https://github.com/cameekorg/postman-old-install.git
+git checkout arch/osx-7.34.0
 cat Postman-osx-7.34.0.zip_* > Postman-osx-7.34.0.zip
 ```
 
 ## 3. For Windows
 Download the related EXE files and merge them together for 64bit:
 ```
+git clone https://github.com/cameekorg/postman-old-install.git
+git checkout arch/win64-7.34.0
 copy /b Postman-win64-7.34.0-Setup.exe_* Postman-win64-7.34.0-Setup.exe
 ```
 or for 32bit:
 ```
+git clone https://github.com/cameekorg/postman-old-install.git
+git checkout arch/win32-7.34.0
 copy /b Postman-win32-7.34.0-Setup.exe_* Postman-win32-7.34.0-Setup.exe
 ```
 
