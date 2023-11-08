@@ -1,8 +1,10 @@
 # Postman Old Install
 
-Postman old version installation packages archive. Please, **use the latest official Postman versions on https://www.postman.com/, if possible.**
+Postman old version installation packages archive. 
 
-**NOTE: These archived installations are WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.**
+> :info: **PLEASE: Use the latest official Postman versions on https://www.postman.com/, if possible. It has many fixes for vulnerabilites and improvements.**
+
+> :warning: **NOTE: These archived installations are WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.**
 
 ## 1. For Linux
 Download the related GZ files and merge them together:
