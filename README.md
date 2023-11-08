@@ -2,7 +2,7 @@
 
 Postman old version installation packages archive. 
 
-> :info: **PLEASE: Use the latest official Postman versions on https://www.postman.com/, if possible. It has many fixes for vulnerabilites and improvements.**
+> :information_source: **PLEASE: Use the latest official Postman versions on https://www.postman.com/, if possible. It has many fixes for vulnerabilites and new features.**
 
 > :warning: **NOTE: These archived installations are WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.**
 
